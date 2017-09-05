@@ -1,2 +1,2 @@
 # data_structre
-# data_structre
+practice on data structures
