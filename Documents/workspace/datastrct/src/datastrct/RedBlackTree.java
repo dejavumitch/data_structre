@@ -6,41 +6,6 @@ import java.util.Random;
 public class RedBlackTree {
 
 	public static void main(String[] args) {
-		/*
-		RBTree redBlackTree = new RBTree(10);
-		redBlackTree.offer(29);
-		redBlackTree.offer(35);
-		redBlackTree.offer(5);
-		redBlackTree.offer(21);
-		redBlackTree.offer(77);
-		
-		for (RBTreeNode node : redBlackTree.set) {
-			if (node == null) {
-				System.out.println("null");
-			} else {
-				System.out.println(node.getValue() 
-						+ ",   parent: " + (node.parent == null ? "null" : node.parent.getValue()) 
-						+ ",   left: " + (node.left == null ? "null" : node.left.getValue()) 
-						+ ",   right: " + (node.right == null ? "null" : node.right.getValue()));
-			}
-			
-		}
-		
-		redBlackTree.offer(7);
-		System.out.println("null");
-		for (RBTreeNode node : redBlackTree.set) {
-			if (node == null) {
-				System.out.println("null");
-			} else {
-				System.out.println(node.getValue() 
-						+ ",   parent: " + (node.parent == null ? "null" : node.parent.getValue()) 
-						+ ",   left: " + (node.left == null ? "null" : node.left.getValue()) 
-						+ ",   right: " + (node.right == null ? "null" : node.right.getValue()));
-			}
-			
-		}
-		 */
-		
 		
 		RBTreeTest.getInstance();
 		
